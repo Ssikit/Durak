@@ -1,1 +1,1 @@
-# Durak
+# Minesweeper
