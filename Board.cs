@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -22,6 +22,8 @@ namespace Minesweeper
         public int bombs;
 
         public int bombsLeft;
+
+        public bool IsGameOver { get; set; }
 
         public Board(int bombsCount, int width, int height)
         {
@@ -90,7 +92,7 @@ namespace Minesweeper
                 cell.IsClick = true;
                 if (cell.IsMine)
                 {
-                    GameOver();
+                    IsGameOver = true;
                 }
                 else
                 {
@@ -114,6 +116,13 @@ namespace Minesweeper
 
         }
 
+        public void GameOver()
+        {
+            foreach (Cell cell in board)
+                if (cell.IsMine)
+                    cell.IsClick = true;
+        }
+
         public void RightClick(Cell cell)
         {
             if (!cell.IsClick)
@@ -123,9 +132,11 @@ namespace Minesweeper
             }
         }
 
-        public void GameOver()
+        public void FirstClick(Cell cell)
         {
-
+            if (cell.IsMine)
+            {
+            }
         }
     }
 }
