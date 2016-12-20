@@ -1,0 +1,17 @@
+D:\Documents\Visual Studio 2015\Projects\Minesweeper\MinesweeperSettings\bin\Debug\MinesweeperSettings.exe.config
+D:\Documents\Visual Studio 2015\Projects\Minesweeper\MinesweeperSettings\bin\Debug\MinesweeperSettings.exe
+D:\Documents\Visual Studio 2015\Projects\Minesweeper\MinesweeperSettings\bin\Debug\MinesweeperSettings.pdb
+D:\Documents\Visual Studio 2015\Projects\Minesweeper\MinesweeperSettings\obj\Debug\MinesweeperSettings.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\Minesweeper\MinesweeperSettings\obj\Debug\SettingsWindow.g.cs
+D:\Documents\Visual Studio 2015\Projects\Minesweeper\MinesweeperSettings\obj\Debug\App.g.cs
+D:\Documents\Visual Studio 2015\Projects\Minesweeper\MinesweeperSettings\obj\Debug\MinesweeperSettings_MarkupCompile.cache
+D:\Documents\Visual Studio 2015\Projects\Minesweeper\MinesweeperSettings\obj\Debug\MinesweeperSettings_MarkupCompile.lref
+D:\Documents\Visual Studio 2015\Projects\Minesweeper\MinesweeperSettings\obj\Debug\SettingsWindow.baml
+D:\Documents\Visual Studio 2015\Projects\Minesweeper\MinesweeperSettings\obj\Debug\MinesweeperSettings.g.resources
+D:\Documents\Visual Studio 2015\Projects\Minesweeper\MinesweeperSettings\obj\Debug\MinesweeperSettings.Properties.Resources.resources
+D:\Documents\Visual Studio 2015\Projects\Minesweeper\MinesweeperSettings\obj\Debug\MinesweeperSettings.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2015\Projects\Minesweeper\MinesweeperSettings\obj\Debug\MinesweeperSettings.exe
+D:\Documents\Visual Studio 2015\Projects\Minesweeper\MinesweeperSettings\obj\Debug\MinesweeperSettings.pdb
+C:\Users\the crazy werewolf\Desktop\Minesweeper\MinesweeperSettings\bin\Debug\MinesweeperSettings.exe.config
+C:\Users\the crazy werewolf\Desktop\Minesweeper\MinesweeperSettings\obj\Debug\MinesweeperSettings.exe
+C:\Users\the crazy werewolf\Desktop\Minesweeper\MinesweeperSettings\obj\Debug\MinesweeperSettings.pdb
